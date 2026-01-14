@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 25 mins
+Total Time: 13 hrs 14 mins
 
-C++          6 hrs 33 mins   ███████████░░░░░░░░░░░░░░   44.56 %
-JavaScript   2 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-TypeScript   1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-Bash         1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-Solidity     1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+C++          6 hrs 33 mins   ████████████░░░░░░░░░░░░░   48.44 %
+TypeScript   1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+JavaScript   1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Solidity     1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+Bash         1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
 ```
 
 <!--END_SECTION:waka-->
