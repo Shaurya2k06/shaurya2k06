@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 54 mins
+Total Time: 16 hrs 18 mins
 
-JavaScript   8 hrs 14 mins   ████████████▒░░░░░░░░░░░░   48.71 %
-Bash         5 hrs 1 min     ███████▒░░░░░░░░░░░░░░░░░   29.72 %
-Markdown     59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-C++          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Python       28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+JavaScript   8 hrs 14 mins   ████████████▓░░░░░░░░░░░░   50.51 %
+Bash         5 hrs 1 min     ███████▓░░░░░░░░░░░░░░░░░   30.82 %
+Markdown     59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+C++          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Solidity     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 ```
 
 <!--END_SECTION:waka-->
